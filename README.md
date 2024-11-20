@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Elizabeth Bugbey! People call me Bug for short.
+- 👀 I’m interested in real estate, personal health & wellness, and cooking.
+- 🌱 I’m currently learning data visualization in Python (again!). It has been a while since I learned Python at Georgia Tech and I'm in need of a refresher.
+- 📫 How to reach me: ewbugbey@gmail.com
+- ⚡ Fun fact: I had a 5-year career in product management but am pursuing a career pivot towards data science & engineering. This will serve as a repo for my personal portfolio of projects where I hope to demonstrate my skills.
